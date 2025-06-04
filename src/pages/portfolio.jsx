@@ -74,6 +74,10 @@ function Portfolio() {
           </For>
         </div>
       </div>
+
+      <br />
+      <br />
+      <br />
     </>
   );
 }
