@@ -1,0 +1,26 @@
+[
+  {
+    "projectName": "E-Commerce Platform",
+    "projectDescription": "A scalable online store built with Django, PostgreSQL, and Solid.js for a fast, responsive frontend. Features include payment gateway integration and user authentication.",
+    "liveLink": "https://example-ecommerce.com",
+    "githubLink": "https://github.com/yourusername/ecommerce-platform"
+  },
+  {
+    "projectName": "Task Management App",
+    "projectDescription": "A task management tool developed with Flask and MongoDB, featuring a Solid.js frontend for real-time updates and a clean, intuitive interface.",
+    "liveLink": "",
+    "githubLink": "https://github.com/yourusername/task-manager"
+  },
+  {
+    "projectName": "WordPress Blog",
+    "projectDescription": "A custom WordPress theme for a personal blog, optimized for SEO and performance, with a focus on user-friendly content management.",
+    "liveLink": "https://example-blog.com",
+    "githubLink": "https://github.com/yourusername/wordpress-blog"
+  },
+  {
+    "projectName": "Shopify Storefront",
+    "projectDescription": "A Shopify store with a custom theme built for a small business, integrating product listings and payment processing.",
+    "liveLink": "",
+    "githubLink": "https://github.com/yourusername/shopify-storefront"
+  }
+]
