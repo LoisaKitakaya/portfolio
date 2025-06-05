@@ -1,26 +1,98 @@
 [
   {
-    "projectName": "E-Commerce Platform",
-    "projectDescription": "A scalable online store built with Django, PostgreSQL, and Solid.js for a fast, responsive frontend. Features include payment gateway integration and user authentication.",
-    "liveLink": "https://example-ecommerce.com",
-    "githubLink": "https://github.com/yourusername/ecommerce-platform"
-  },
-  {
-    "projectName": "Task Management App",
-    "projectDescription": "A task management tool developed with Flask and MongoDB, featuring a Solid.js frontend for real-time updates and a clean, intuitive interface.",
+    "projectName": "Auctioning Platform",
+    "projectDescription": "A scalable online auction platform built with Django and PostgreSQL. This application enables users to create, manage, and bid on auctions, set auction dates, and integrate social media links for promotion. Features include secure user authentication, real-time bidding updates, and a robust database for efficient auction management.",
     "liveLink": "",
-    "githubLink": "https://github.com/yourusername/task-manager"
+    "githubLink": "https://github.com/LoisaKitakaya/Auctions"
   },
   {
-    "projectName": "WordPress Blog",
-    "projectDescription": "A custom WordPress theme for a personal blog, optimized for SEO and performance, with a focus on user-friendly content management.",
-    "liveLink": "https://example-blog.com",
-    "githubLink": "https://github.com/yourusername/wordpress-blog"
-  },
-  {
-    "projectName": "Shopify Storefront",
-    "projectDescription": "A Shopify store with a custom theme built for a small business, integrating product listings and payment processing.",
+    "projectName": "Real-estate Management - backend",
+    "projectDescription": "A robust backend for a real-estate management application, developed using Django and Django-Ninja for API infrastructure, with PostgreSQL as the database. It supports property listings, user management, and transaction processing, providing a scalable and secure API for real estate operations.",
     "liveLink": "",
-    "githubLink": "https://github.com/yourusername/shopify-storefront"
+    "githubLink": "https://github.com/LoisaKitakaya/casaflex"
+  },
+  {
+    "projectName": "Real-estate Management - frontend",
+    "projectDescription": "A dynamic frontend for a real-estate management application built with Solid.js. This client-side interface offers an intuitive user experience for browsing property listings, managing user profiles, and interacting with real estate services, seamlessly integrated with the backend API.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/casaflex"
+  },
+  {
+    "projectName": "Quiz App - backend",
+    "projectDescription": "A backend for a relationship quiz application leveraging AI to diagnose relationship issues and suggest remedies. Built with Django and Django-Ninja, it uses PostgreSQL for data storage, providing APIs for quiz generation, response analysis, and personalized recommendations.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/Quiz-App-Backend"
+  },
+  {
+    "projectName": "Quiz App - frontend",
+    "projectDescription": "A frontend for a relationship quiz application built with Solid.js. This interactive interface allows users to take AI-driven quizzes, view diagnostic results, and receive tailored relationship advice, seamlessly connecting with the Django backend for a smooth user experience.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/Quiz-App-Frontend"
+  },
+  {
+    "projectName": "Clean Hub Connect - frontend",
+    "projectDescription": "A Svelte-based frontend for a laundry service application. This user-friendly interface enables customers to schedule laundry pickups, track orders, and manage payments, offering a responsive and modern design integrated with the backend for seamless functionality.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/chc_solid"
+  },
+  {
+    "projectName": "Clean Hub Connect - backend",
+    "projectDescription": "A Django-based backend for a laundry service application, utilizing PostgreSQL for data management. It provides APIs for order processing, scheduling, and user management, ensuring efficient and secure operations for the Clean Hub Connect platform.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/chc_django"
+  },
+  {
+    "projectName": "Learning Management - frontend",
+    "projectDescription": "A SvelteKit-based frontend for a learning management system. This application offers an intuitive interface for students and educators to access courses, submit assignments, and track progress, with a responsive design that enhances the e-learning experience.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/LMS-Frontend"
+  },
+  {
+    "projectName": "Learning Management - backend",
+    "projectDescription": "A Django-based backend for a learning management system, supporting course creation, user management, and progress tracking. It leverages PostgreSQL for efficient data storage and provides a robust API for seamless integration with the SvelteKit frontend.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/LMS-Backend"
+  },
+  {
+    "projectName": "The Radical Christian Blog",
+    "projectDescription": "A SvelteKit-based blog website focused on Christian content. This platform allows users to read, share, and comment on blog posts, featuring a clean, responsive design and efficient content management for an engaging user experience.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/the-radical-christian"
+  },
+  {
+    "projectName": "Selfie App - For World Environmental Day",
+    "projectDescription": "A Flask-based web application designed for World Environmental Day, enabling users to upload selfies and share messages promoting environmental awareness. The app features a simple, user-friendly interface and secure media handling.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/asar"
+  },
+  {
+    "projectName": "Fashion E-Commerce Store",
+    "projectDescription": "A Django-based e-commerce platform for a clothing store, featuring product catalogs, secure payment processing, and user account management. Built with PostgreSQL, it offers a scalable solution for online retail with a focus on user experience and performance.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/animated-spork"
+  },
+  {
+    "projectName": "Dairy Farm Website - backend",
+    "projectDescription": "A Flask-based backend for a dairy farm website, providing APIs for product listings, order management, and customer interactions. It uses a lightweight and efficient architecture to support the SvelteKit frontend, ensuring seamless data handling.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/dairy-app"
+  },
+  {
+    "projectName": "Dairy Farm Website - frontend",
+    "projectDescription": "A SvelteKit-based frontend for a dairy farm website, offering a modern and responsive interface for customers to browse dairy products, place orders, and learn about the farm. It integrates seamlessly with the Flask backend for efficient data retrieval.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/RISLO"
+  },
+  {
+    "projectName": "Finance Accounting - backend",
+    "projectDescription": "A Django-based backend for a fintech accounting application, utilizing GraphQL with the Ariadne library for flexible and efficient API queries. It supports financial data management, transaction tracking, and user authentication, with PostgreSQL for secure data storage.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/tomcat"
+  },
+  {
+    "projectName": "Finance Accounting - frontend",
+    "projectDescription": "A React-based frontend for a fintech accounting application, providing users with an intuitive interface to manage financial transactions, view reports, and access account details. It integrates seamlessly with the GraphQL-based Django backend for real-time data updates.",
+    "liveLink": "",
+    "githubLink": "https://github.com/LoisaKitakaya/Feline-2.0"
   }
 ]
