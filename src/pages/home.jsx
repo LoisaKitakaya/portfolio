@@ -57,6 +57,16 @@ function Home() {
               View Portfolio
             </A>
             <A
+              href="https://github.com/LoisaKitakaya"
+              style={{
+                "text-decoration": "none",
+                color: "#007bff",
+                "font-weight": "bold",
+              }}
+            >
+              View GitHub
+            </A>
+            <A
               href="/contact"
               style={{
                 "text-decoration": "none",
