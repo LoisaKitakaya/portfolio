@@ -10,7 +10,7 @@ function Portfolio() {
 
       <div
         style={{
-        //   "min-height": "100vh",
+          //   "min-height": "100vh",
           display: "flex",
           "flex-direction": "column",
           "justify-content": "center",
@@ -52,16 +52,19 @@ function Portfolio() {
                     "justify-content": "center",
                   }}
                 >
-                  <a
-                    href={project.liveLink || "#"}
-                    style={{
-                      color: project.liveLink ? "#007bff" : "#666",
-                      "text-decoration": "none",
-                      cursor: project.liveLink ? "pointer" : "default",
-                    }}
-                  >
-                    {project.liveLink ? "View site" : "No live link"}
-                  </a>
+                  {project.liveLink && (
+                    <a
+                      href={project.liveLink || "#"}
+                      style={{
+                        color: project.liveLink ? "#007bff" : "#666",
+                        "text-decoration": "none",
+                        cursor: project.liveLink ? "pointer" : "default",
+                      }}
+                    >
+                      View Site
+                    </a>
+                  )}
+
                   <a
                     href={project.githubLink}
                     style={{ color: "#007bff", "text-decoration": "none" }}
